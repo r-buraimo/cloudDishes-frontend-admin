@@ -1,3 +1,61 @@
+# CloudDishes – Frontend
+
+Marketplace user interface built with Vue.js.
+
+---
+
+## 📌 Overview
+
+Customer-facing and admin interfaces for restaurant marketplace management.
+
+---
+
+## 🏗 Technologies
+
+- Vue.js
+- REST API integration
+- Responsive architecture
+
+---
+
+## ⚙ Core Capabilities
+
+- Restaurant discovery system
+- Real-time order updates
+- Reservation calendar UI
+- Admin performance dashboards
+
+---
+
+## 👨‍💻 My Role
+
+Frontend & API Integration
+
+- Marketplace UI architecture
+- Restaurant management interface
+- Admin dashboard implementation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # cloud-dishes-admin-panel
 
 ## Project setup
